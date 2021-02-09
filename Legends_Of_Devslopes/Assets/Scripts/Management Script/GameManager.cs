@@ -109,8 +109,8 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         endGameText.GetComponent<Text>().enabled = false;
-        // StartCoroutine(spawnm());
-        // StartCoroutine (powerUpSpawn());
+        StartCoroutine(Spawn());
+        StartCoroutine (PowerUpSpawn());
         currentLevel = 1;
     }
 

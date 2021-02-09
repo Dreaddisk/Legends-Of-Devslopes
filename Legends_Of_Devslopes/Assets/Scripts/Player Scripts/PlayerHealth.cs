@@ -118,7 +118,7 @@ public class PlayerHealth : MonoBehaviour
         }
         healthSlider.value = currentHealth;
     }
-}
+
 
 
 
