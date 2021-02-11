@@ -161,6 +161,7 @@
 -define:ENABLE_NATIVE_ARRAY_CHECKS
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
+"Assets/Scripts/Animation Script/AnimationEvents.cs"
 "Assets/Scripts/Enemy Scripts/EnemyAttack.cs"
 "Assets/Scripts/Enemy Scripts/EnemyHealth.cs"
 "Assets/Scripts/Enemy Scripts/EnemyMove.cs"
@@ -170,6 +171,7 @@
 "Assets/Scripts/Management Script/GameManager.cs"
 "Assets/Scripts/Player Scripts/PlayerController.cs"
 "Assets/Scripts/Player Scripts/PlayerHealth.cs"
+"Assets/Scripts/PowerUp Scripts/HealthPowerUp.cs"
 -r:"C:\Program Files\Unity\Hub\Editor\2017.4.32f1\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2017.4.32f1\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2017.4.32f1\Editor\Data\Mono\lib\mono\unity\UnityScript.dll"
